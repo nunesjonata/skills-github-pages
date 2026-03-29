@@ -1,4 +1,6 @@
+
+theme: jekyll-theme-minimal
 ---
 title: Welcome to my blog!
 ---
-theme: jekyll-theme-minimal
+
